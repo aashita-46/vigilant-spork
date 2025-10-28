@@ -93,3 +93,8 @@ main button i {
     font-size: 18px;
     vertical-align: middle;
 }
+button.special {
+  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  color: white;
+  font-weight: 700;
+}
